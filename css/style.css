@@ -1,0 +1,34 @@
+* {
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: 'Grandstander', cursive;
+    
+}
+.mainContainer {
+    text-align: center;
+    border-radius: 200px;
+    background-color: khaki;
+}
+.baseTitle {
+
+text-align: center;
+}
+.fas {
+    font-size: 25px;
+}
+section {
+    margin: 0 40px;
+}
+ul {
+    list-style: none;
+} 
+.bottom {
+    border-radius: inherit;
+    padding: 20px 0px;
+    background-color: aqua;
+}
+
+.spanEliminar{
+    background-color: aliceblue;
+}
